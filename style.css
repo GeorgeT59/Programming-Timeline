@@ -67,7 +67,7 @@ background: #c5c5c5;
     right: -6px;
     width: 10px;
     height: 10px;
-    background: rgb(22, 49, 206);
+    background: rgb(22,49, 206);
     border-radius: 50%;
     box-shadow: 0 0 0 3px rgba(233,33,99,2);
 }
@@ -171,7 +171,7 @@ h1
     }
 }
 
-.timeline ul li:nthchild(odd) .time
+.timeline ul li:nthchild(even) .time
 {
     position: absolute;
     top: 12px;
