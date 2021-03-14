@@ -11,6 +11,7 @@ body
     margin: 50px auto;
     padding: 40px 0;
     width: 1000px;
+    box-sizing: border-box;
 
 }
 
@@ -66,7 +67,7 @@ background: #c5c5c5;
     right: -6px;
     width: 10px;
     height: 10px;
-    background: rgba(233,33,99,1);
+    background: rgb(22, 49, 206);
     border-radius: 50%;
     box-shadow: 0 0 0 3px rgba(233,33,99,2);
 }
